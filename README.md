@@ -1,9 +1,9 @@
-# my-app-tabs
+# myAppTabs
 Es una aplicación básica de Ionic 6 con Angular, para aprender. Para ello lo que se ejecutó:
 
 `npm install -g @ionic/cli@v6`
 
-`ionic start myApp tabs`
+`ionic start myAppTabs tabs`
 
 
 Ejecutar `ionic serve` dentro del directorio de la aplicación para ver tu app en el navegador
